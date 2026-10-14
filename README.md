@@ -2,7 +2,7 @@
 
 **`Software Developer` | `AI Engineer `| `Researcher`**
 
-Full Stack developer with 2+ years of professional experience building web applications, REST APIs, and software quality practices with Java, Spring Boot, React, and TypeScript. I also have 1 year of applied research experience with LLMs, AI agents, prompt engineering, and Requirements Engineering. Currently pursuing a Master's degree in Software Engineering at UFRN, researching Spec-Driven Development.
+Full Stack developer with 2+ years of professional experience building web applications, REST APIs, and software quality practices with Java, Spring Boot, React, and TypeScript. I also have 1 year of applied research experience with LLMs, AI agents, prompt engineering and Requirements Engineering. Currently pursuing a Master's degree in Software Engineering at UFRN, researching Spec-Driven Development.
 
 ## Languages and Tools
 
